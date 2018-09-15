@@ -64,3 +64,6 @@ fabric.properties
 
 # Temporary files
 *.pyc
+
+#.idea folder
+.idea/
